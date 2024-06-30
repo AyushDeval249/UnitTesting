@@ -1,0 +1,14 @@
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\AyushDevalCodes\UnitTesting\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
