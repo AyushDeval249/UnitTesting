@@ -1,0 +1,14 @@
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\bin\Debug\net8.0\XUnitTests.exe
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\bin\Debug\net8.0\XUnitTests.deps.json
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\bin\Debug\net8.0\XUnitTests.runtimeconfig.json
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\bin\Debug\net8.0\XUnitTests.dll
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\bin\Debug\net8.0\XUnitTests.pdb
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.AssemblyInfoInputs.cache
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.AssemblyInfo.cs
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.csproj.CoreCompileInputs.cache
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.dll
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\refint\XUnitTests.dll
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.pdb
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\XUnitTests.genruntimeconfig.cache
+D:\AyushDevalCodes\UnitTesting\XUnitTests\XUnitTests\obj\Debug\net8.0\ref\XUnitTests.dll

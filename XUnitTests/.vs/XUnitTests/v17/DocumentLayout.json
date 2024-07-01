@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\testcollectionorderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\testcollectionorderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\customerdetailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\customerdetailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\customerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\customerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\customerfixturecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\customerfixturecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\customerfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\customerfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests.test\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72A0673-CCFD-4388-B684-3997C7F794EC}|XUnitTests.Test\\XUnitTests.Test.csproj|solutionrelative:xunittests.test\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|d:\\ayushdevalcodes\\unittesting\\xunittests\\xunittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE775F-F1EA-403B-962C-572BC657D0D0}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Customers.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\Customers.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Customers.cs",
+              "RelativeToolTip": "XUnitTests\\Customers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:05:42.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersTest.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomersTest.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\CustomersTest.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomersTest.cs",
+              "RelativeToolTip": "XUnitTests.Test\\CustomersTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:07:38.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\AssemblyInfo.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\AssemblyInfo.cs",
+              "RelativeToolTip": "XUnitTests.Test\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:39:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCollectionOrderer.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\TestCollectionOrderer.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\TestCollectionOrderer.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\TestCollectionOrderer.cs",
+              "RelativeToolTip": "XUnitTests.Test\\TestCollectionOrderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:32:55.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetailsTest.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerDetailsTest.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\CustomerDetailsTest.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerDetailsTest.cs",
+              "RelativeToolTip": "XUnitTests.Test\\CustomerDetailsTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:19:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerFixtureCollection.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerFixtureCollection.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\CustomerFixtureCollection.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerFixtureCollection.cs",
+              "RelativeToolTip": "XUnitTests.Test\\CustomerFixtureCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:24:28.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerFixture.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerFixture.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\CustomerFixture.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CustomerFixture.cs",
+              "RelativeToolTip": "XUnitTests.Test\\CustomerFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:21:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculationTest.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CalculationTest.cs",
+              "RelativeDocumentMoniker": "XUnitTests.Test\\CalculationTest.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests.Test\\CalculationTest.cs",
+              "RelativeToolTip": "XUnitTests.Test\\CalculationTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:45:54.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Calculation.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\Calculation.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Calculation.cs",
+              "RelativeToolTip": "XUnitTests\\Calculation.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:45:29.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Program.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\Program.cs",
+              "ToolTip": "D:\\AyushDevalCodes\\UnitTesting\\XUnitTests\\XUnitTests\\Program.cs",
+              "RelativeToolTip": "XUnitTests\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:03:19.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
